@@ -3,7 +3,7 @@ name = "SigmaOS-groff"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "groff component"
+description = "SigmaOS SigmaOS-groff component"
 upstream = []
 
 [contract]
